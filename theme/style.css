@@ -33,3 +33,9 @@ h1{
     font-size: x-large;
     font-weight: 900;
 }
+
+.entry-content{
+    padding: 10px;
+    background-color: #9E9E9E;
+    color: black;
+}
